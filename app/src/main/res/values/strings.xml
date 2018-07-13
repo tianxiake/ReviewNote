@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ReviewNote</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--底部导航行-->
+    <string name="bottom_note">今日</string>
+    <string name="bottom_all">全部</string>
+
+    <!--定义设置中每日复习数配置项-->
+
+    <string name="every_day_review_default">5</string>
+
+    <string-array name="every_day_review">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+
+</resources>

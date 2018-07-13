@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_bottom_note"
+        android:icon="@drawable/ic_note"
+        android:title="@string/bottom_note" />
+
+    <item
+        android:id="@+id/main_bottom_all"
+        android:icon="@drawable/icon_all"
+        android:title="@string/bottom_all" />
+</menu>

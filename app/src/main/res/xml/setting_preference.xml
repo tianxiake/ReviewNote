@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="@string/every_day_review_default"
+        android:entries="@array/every_day_review"
+        android:entryValues="@array/every_day_review"
+        android:key="review_number"
+        android:summary="@string/every_day_review_default"
+        android:title="每日复习数" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="CheckBox"
+        android:title="CheckBoxPreference" />
+
+
+</PreferenceScreen>
